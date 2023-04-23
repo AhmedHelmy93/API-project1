@@ -1,0 +1,32 @@
+{
+  "resturant": [
+    {
+      "id": 1,
+      "type": "beef",
+      "size": [
+        "medium",
+        "large"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "chekin",
+      "size": [
+        "medium",
+        "large"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$0g36jGUUATFU995jUfHTOOYNjYh.krnjRHq3kZN0EmFPZauZwifMC",
+      "id": 1
+    },
+    {
+      "email": "ahmed@mail.com",
+      "password": "$2a$10$Ed5PhNRcfbTe4rs3AkPATO/KkoXyq6/f8GPaqxUdvzOaNKj9e3.HG",
+      "id": 2
+    }
+  ]
+}
